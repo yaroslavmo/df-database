@@ -26,6 +26,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Correct designation for HAS_ONE relationship
 - Cleanup use of checkServicePermission, use ServiceManager where applicable
 
+## [0.8.1] - 2017-11-21
+### Fixed
+- Correct designation for HAS_ONE relationship
+
 ## [0.8.0] - 2017-11-03
 ### Changed
 - Change getNativeDateTimeFormat to handle column schema to detect detailed datetime format
@@ -105,7 +109,8 @@ First official release working with the new [dreamfactory](https://github.com/dr
 [0.9.3]: https://github.com/dreamfactorysoftware/df-database/compare/0.9.2...0.9.3
 [0.9.2]: https://github.com/dreamfactorysoftware/df-database/compare/0.9.1...0.9.2
 [0.9.1]: https://github.com/dreamfactorysoftware/df-database/compare/0.9.0...0.9.1
-[0.9.0]: https://github.com/dreamfactorysoftware/df-database/compare/0.8.0...0.9.0
+[0.9.0]: https://github.com/dreamfactorysoftware/df-database/compare/0.8.1...0.9.0
+[0.8.1]: https://github.com/dreamfactorysoftware/df-database/compare/0.8.0...0.8.1
 [0.8.0]: https://github.com/dreamfactorysoftware/df-database/compare/0.7.0...0.8.0
 [0.7.0]: https://github.com/dreamfactorysoftware/df-database/compare/0.6.1...0.7.0
 [0.6.1]: https://github.com/dreamfactorysoftware/df-database/compare/0.6.0...0.6.1
